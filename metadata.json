@@ -1,0 +1,6 @@
+{
+  "name": "G K Builders",
+  "description": "Premium luxury construction and architecture services in Tiruppalai, Madurai, specializing in custom villas, apartments, and commercial projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
